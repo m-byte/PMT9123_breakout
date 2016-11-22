@@ -1,0 +1,92 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5365-1.0YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 1.0V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-1.2YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 1.2V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-1.3YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 1.3V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-1.5YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 1.5V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-1.8YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 1.8V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-2.0YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.0V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-2.5YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.5V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-2.6YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.6V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-2.7YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.7V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-2.85YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.85V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-2.8YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.8V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-2.9YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 2.9V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-3.0YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 3.0V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP MIC5365-3.3YC5
+D 150 mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SC-70-5
+K 150mA LDO Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP PMT9123
+D PMT9123
+F http://www.pixart.com.tw/upload/PMT9123QS-TVIT-NNDS-v1.02-120716_20160906201433.pdf
+$ENDCMP
+#
+#End Doc Library
